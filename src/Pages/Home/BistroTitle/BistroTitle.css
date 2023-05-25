@@ -1,0 +1,11 @@
+.title-img{
+  background-image: url('../../../assets/home/chef-service.jpg');
+  height: 450px;
+  position: relative;
+}
+.title{
+  position: absolute;
+  background-color: white;
+  left: 0;
+  right: 0;
+}
